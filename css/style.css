@@ -1,0 +1,35 @@
+body{
+  margin-top:  0;
+}
+h1{
+  margin-left: 0;
+}
+/*********************topcontainer*******************/
+.topcontainer{
+
+  background-color: grey;
+  height: 200px;
+  width: 200px;
+}
+
+
+/***********************
+
+div{
+  background-color: grey;
+}******/
+/**************************middlecontainer**********************/
+.middlecontainer{
+  background-color: red;
+  height: 200px;
+  width: 200px;
+  margin-left: 200px;
+
+}
+/*****************************bottomcontainer***********************/
+.bottomcontainer{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+  margin-left: 400px;
+}
